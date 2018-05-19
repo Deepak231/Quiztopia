@@ -1,0 +1,269 @@
+1. Which of the following is a correct definition of “Isohyets”?
+[A] Lines on a map showing equal rainfall 
+[B] Lines on a map having same mean temperature 
+[C] Lines on a map having same barometric pressure 
+[D] Lines on a map showing equal height from mean sea level              [A]
+
+2. The concept of differential heating was primarily given to explain which of the following geographical phenomena in India?
+[A] Monsoon 
+[B] Jet streams 
+[C] Cyclones 
+[D] Desert storms                                                       [A]
+
+3. Which of the following rulers were contemporary of Buddha?
+[A] Bimbisar of Magadha 
+[B] Prasenjit (Pansedi) of Kosala 
+[C] Udayan of Avanti 
+[D] All of Above                                                        [D]
+
+4. Buddhism from India was introduced to which current region by Kasyapa Matanga?
+[A] China 
+[B] South East Asia 
+[C] Sri Lanka                           
+[D] Africa                                                              [A]
+
+5. Which of the following was denoted by the term “Kahapana” or “Karshapan” during ancient India?
+[A] A cloth 
+[B] A trader 
+[C] A monk 
+[D] A coin                                                             [D]
+
+cars
+
+1.The first car run on gasoline was invented in which country?
+[A]Germany
+[B]France
+[C]America
+[D]England
+
+2.which car is fastest
+[A]Bugatti Veyron SS
+[B]Nissan Gtr
+[C]SSC Ultimate Aero
+[D]Koenissieg                                                         [A]
+
+3.who is the owner of tata?
+[A] raman tata
+[B] ratan tata
+[C] ragan tata
+[D] raaj pit                                                          [B]
+
+4.Which engine is using in Suzuki Swift petrol?
+[A] K series
+[B] J series
+[C] M series
+[D] S series                                                         [A]
+
+5.When did Audi AG acquired Lamborghini
+[A] 1996
+[B] 1998
+[C] 1960
+[D] 1980                                                             [B]
+
+chemistry
+
+1.The chemical used as a fixer in photography is
+[A] sodium sulphate 
+[B] borax 
+[C] sodium thiosulphate 
+[D] ammonium sulphate                                                [C]
+
+2. For which one of the following is the density maximum?
+[A] Ice 
+[B] Water 
+[C] Benzene 
+[D] Chloroform                                                       [B]
+
+3.The alcohol used in power alcohol is
+[A] propanol 
+[B] ethyl alcohol 
+[C] methyl alcohol 
+[D] ethylene glycol                                                 [B]
+
+4.The reaction between methane and chlorine in diffused sunlight is
+[A] oxidation 
+[B] reduction 
+[C] polymerisation 
+[D] substitution                                                    [D]
+
+5. The alloy of aluminium used for making magnet is
+[A] duralumin 
+[B] Y–alloy 
+[C] alnico 
+[D] aluminium bronze                                               [C]
+
+Physics
+
+1.Radiocarbon is produced in the atmosphere as a result of
+[A] collision between fast neutrons and nitrogen nuclei present in the atmosphere
+[B] action of ultraviolet light from the sun on atmospheric oxygen
+[C] action of solar radiations particularly cosmic rays on carbon dioxide present in the atmosphere
+[D] lightning discharge in atmosphere                               [A]
+
+2. It is easier to roll a stone up a sloping road than to lift it vertical upwards because
+[A] work done in rolling is more than in lifting
+[B] work done in lifting the stone is equal to rolling it
+[C] work done in both is same but the rate of doing work is less in rolling
+[D] work done in rolling a stone is less than in lifting it		[D]
+
+3. The absorption of ink by blotting paper involves
+[A] viscosity of ink
+[B] capillary action phenomenon
+[C] diffusion of ink through the blotting
+[D] siphon action							[B]
+
+4. Siphon will fail to work if
+
+[A] the densities of the liquid in the two vessels are equal
+[B] the level of the liquid in the two vessels are at the same height
+[C] both its limbs are of unequal length
+[D] the temperature of the liquids in the two vessels are the same	[B]
+
+5. Large transformers, when used for some time, become very hot and are cooled by circulating oil. The heating of the transformer is due to
+
+[A] the heating effect of current alone
+[B] hysteresis loss alone
+[C] both the heating effect of current and hysteresis loss
+[D] intense sunlight at noon
+
+biology
+
+1. Ordinary table salt is sodium chloride. What is baking soda?
+[A] Potassium chloride
+[B] Potassium carbonate
+[C] Potassium hydroxide
+[D] Sodium bicarbonate						[D]
+
+2. Ozone hole refers to
+[A] hole in ozone layer
+[B] decrease in the ozone layer in troposphere
+[C] decrease in thickness of ozone layer in stratosphere
+[D] increase in the thickness of ozone layer in troposphere       [C]
+
+3. Pine, fir, spruce, cedar, larch and cypress are the famous timber-yielding plants of which several also occur widely in the hilly regions of India. All these belong to
+[A] angiosperms
+[B] gymnosperms
+[C] monocotyledons
+[D] dicotyledons					[B]
+
+4. Pollination is best defined as
+[A] transfer of pollen from anther to stigma
+[B] germination of pollen grains
+[C] growth of pollen tube in ovule
+[D] visiting flowers by insects				[A]
+
+5. Plants receive their nutrients mainly from
+[A] chlorophyll
+[B] atmosphere
+[C] light
+[D] soil						[D]
+
+
+Android
+
+1)	Android is initially developed by
+
+A - Google Inc
+
+B - Apple Inc
+
+C - Open Handset Alliance
+
+D -	Android Inc 				[D]
+
+
+2)	On which thread services work in android
+
+A - Worker Thread
+
+B - Own Thread
+
+C - Main Thread
+
+D - None of the above. 				[C]
+
+
+3)  What is breakpoint in android?
+
+A - Breaks the application
+
+B - Breaks the development code
+
+C - Breaks the execution.
+
+D - None of the above.				[C]
+
+
+4)	What is the library of Map View in android
+
+A - com.map
+
+B - com.google.gogglemaps
+
+C - in.maps
+
+D - com.google.android.maps			[D]
+
+5) What is the purpose of super.onCreate() in android
+
+A - To create an activity
+
+B - To create a graphical window for subclass
+
+C - It allows the developers to write the program
+
+D - None of the Above 				[B]
+
+
+BASIC MATH
+
+Questions 1: 
+
+If Logx (1 / 8) = - 3 / 2, then x is equal to 
+
+A. - 4 
+B. 4 
+C. 1 / 4 
+D. 10 								[B]
+
+Question 2: 
+
+20 % of 2 is equal to 
+
+A. 20 
+B. 4 
+C. 0.4 
+D. 0.04 							[C]
+
+Questions 3: 
+
+If Log 4 (x) = 12, then log 2 (x / 4) is equal to 
+
+A. 11 
+B. 48 
+C. -12 
+D. 22 								[D]
+
+Questions 4: 
+
+If f(x) is an odd function, then | f(x) | is 
+
+A. an odd function 
+B. an even function 
+C. neither odd nor even 
+D. even and odd						[B]
+
+Questions 5: 
+
+The period of | sin (3x) | is 
+
+A. 2 pi 
+B. 2 pi / 3 
+C. pi / 3 
+D. 3 pi 							[C]
+
+
+
+
+
+

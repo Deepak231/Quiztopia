@@ -1,0 +1,17 @@
+{
+  "name": "qtserver",
+  "version": "1.0.0",
+  "description": "For handling message sending and receiving",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak Shetty",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "connect": "^3.6.6",
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
+  }
+}

@@ -1,0 +1,27 @@
+[
+		{	
+			"quest" : "If Logx (1 / 8) = - 3 / 2, then x is equal to" ,
+			"opt"  	: [ "- 4 ", "4" , "1 / 4" , "10" ],
+			"ans" 	: "4"
+		},
+		{
+			"quest" : "20 % of 2 is equal to " ,
+			"opt" 	:  [ "20" , "4" , "0.4" , "0.04" ],
+			"ans" 	: "0.4"
+		}, 
+		{
+			"quest" : "If Log 4 (x) = 12, then log 2 (x / 4) is equal to " ,
+			"opt" 	:  [ "11" , "48" , "-12" , "22" ],
+			"ans" 	: "22"
+		}, 
+		{
+			"quest" : "If f(x) is an odd function, then    | f(x) | is " ,
+			"opt" 	:  [ "an odd function" , "an even function" , "neither odd nor even" , "even and odd" ],
+			"ans" 	: "an even function"
+		}, 
+		{
+			"quest" : "The period of | sin (3x) | is" ,
+			"opt" 	:  [ "2 pi" , "2 pi / 3" , "pi / 3" , "3 pi" ],
+			"ans" 	: "pi / 3"
+		}
+]

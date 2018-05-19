@@ -1,0 +1,27 @@
+[
+		{	
+			"quest" : "Android is initially developed by" ,
+			"opt"  	: [ "Google Inc", "Apple Inc" , "Open Handset Alliance" , "Android Inc" ],
+			"ans" 	: "Android Inc"
+		},
+		{
+			"quest" : "On which thread services work in android" ,
+			"opt" 	:  [ "Worker Thread" , "Own Thread" , "Main Thread" , "None of the above" ],
+			"ans" 	: "Main Thread"
+		}, 
+		{
+			"quest" : "What is breakpoint in android" ,
+			"opt" 	:  [ "Breaks the application" , "Breaks the development code" , "Breaks the execution" , "None of the above" ],
+			"ans" 	: "Breaks the execution"
+		}, 
+		{
+			"quest" : "What is the library of Map View in android" ,
+			"opt" 	:  [ "com.map" , "com.google.googlemaps" , "in.maps" , "com.google.android.maps" ],
+			"ans" 	: "com.google.android.maps"
+		}, 
+		{
+			"quest" : "What is the purpose of super.onCreate() in android" ,
+			"opt" 	:  [ "To create an activity" , "To create a graphical window for subclass" , "It allows the developers to write the program" , "None of the Above" ],
+			"ans" 	: "To create a graphical window for subclass"
+		}
+]

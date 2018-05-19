@@ -1,0 +1,30 @@
+CREATE TABLE user (
+username VARCHAR(15),
+password VARCHAR(15) NOT NULL,
+lvl INT(3),
+exp INT(10),
+ll VARCHAR(20),
+primary key(username));
+
+CREATE TABLE followed_topics (
+username VARCHAR(15),
+topics VARCHAR(25),
+foreign key(username) REFERENCES user(username));
+
+CREATE TABLE rankings (
+username VARCHAR(15),
+rank1 INT(10),
+rank2 INT(10),
+rank3 INT(10),
+foreign key(username) REFERENCES user(username),
+primary key(username));
+
+DELIMITER $$
+
+create  trigger insert_on_rankings
+AFTER INSERT on user
+for each row
+begin
+insert into rankings(username,rank1,rank2,rank3) 
+values(NEW.username,0,0,0);
+END $$

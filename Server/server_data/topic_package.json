@@ -1,0 +1,15 @@
+[
+		{	
+			"main" 	: "General" ,
+			"sub"  	: [ "General Knowledge", "Chemistry" , "Physics" , "Biology" , "Cars"]
+		},
+		{
+			"main" 	: "Tech" ,
+			"sub" 	:  [ "Android" , "HTML" , "Python" , "Javascript", "Internet"]
+		}, 
+		{
+			"main" 	: "Educational" ,
+			"sub" 	: [ "Basic Math", "Word Defination" , "Grammer" , "Missing Letters" ,
+							"Finish the saying" ] 
+		}
+]

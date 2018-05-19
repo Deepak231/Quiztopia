@@ -1,0 +1,27 @@
+[
+		{	
+			"quest" : "Which crop is sown on the largest area in India?" ,
+			"opt"  	: [ "Rice", "Wheat" , "Sugarcane" , "Maze" ],
+			"ans" 	: "Rice"
+		},
+		{
+			"quest" : "The value of Gold is determined in " ,
+			"opt" 	:  [ "Rome" , "Washington" , "Teheran" , "London" ],
+			"ans" 	: "London"
+		}, 
+		{
+			"quest" : " The state which has the largest number of sugar mills in India is  " ,
+			"opt" 	:  [ "Bihar" , "Haryana" , "Punjab" , "Uttar Pradesh" ],
+			"ans" 	: "Uttar Pradesh"
+		}, 
+		{
+			"quest" : "First University in India was founded at " ,
+			"opt" 	:  [ "Bombay" , "Delhi" , "Calcutta" , "Bangalore" ],
+			"ans" 	: "Calcutta"
+		}, 
+		{
+			"quest" : "Tajmahal is on the banks of " ,
+			"opt" 	:  [ "Ganges" , "Jamuna" , "Tapti" , "Cauvery" ],
+			"ans" 	: "Jamuna"
+		}
+]
