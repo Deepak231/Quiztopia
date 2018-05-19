@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Quiztopia</string>
+    <string name="user_text1" />
+    <string name="pass_text1" />
+    <string name="username1">Username</string>
+    <string name="password1">Password</string>
+    <string name="login">Login</string>
+    <string name="text1">No Account Yet? Create One </string>
+    <string name="text_link1"><u>here</u></string>
+    <string name="username2">Username</string>
+    <string name="password2">Password</string>
+    <string name="user_text2" />
+    <string name="pass_text2" />
+    <string name="password3">Confirm Password</string>
+    <string name="pass_text3" />
+    <string name="signup">Submit</string>
+    <string name="title_activity_topics">Topics</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="topics">Topics</string>
+    <string name="explore">Explore</string>
+    <string name="textview">TextView</string>
+    <string name="textview2">TextView2</string>
+    <string name="textview1">TextView</string>
+    <string name="textview101">TextView</string>
+    <string name="followed_topics">Followed Topics</string>
+    <string name="textview4">TextView</string>
+    <string name="textview5">TextView</string>
+    <string name="results">Results</string>
+    <string name="exp">Exp</string>
+    <string name="textview6">TextView</string>
+    <string name="textview7">TextView</string>
+    <string name="textview8">TextView</string>
+    <string name="home_btn">Home</string>
+    <string name="profile_name">TextView</string>
+    <string name="rankings">Rankings</string>
+    <string name="textview11">TextView</string>
+    <string name="stat">Statistics</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="textview10">TextView</string>
+</resources>

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\MAHE\.android\build-cache\3d9a14a12815c139785b224c1082fab3687bb9c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\pre-dexed\debug\classes_5d1ba0cc8dc24f72f7f88932fc77f21c92921035.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.3.0_158a7b45a305c6fe5fa69909b817f268b326b66b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_ffaec2a9f0fcf0e01494f104ceb7f931cc95d864\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.android\build-cache\ccb5f9409405454d8116c587bb932ea36793d0d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fea4291a0ad2a32621a3f678a76e1df375a95e8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.9.0\1b6c10b5120995a7542c1a31b7828fb8593c8ba\okhttp-3.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.9.0_fbc437c97750551e4253b1b4e1314c0801c53ddc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MAHE\.android\build-cache\49e055e3733dac3d2553df795c5e5606144f28a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\pre-dexed\debug\classes_665e2bce445df691b9a8b7f601ea5f851693025d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.android\build-cache\d45f5ac55d07c9e68633b6cc8241cf55d36a7b6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c88a1186d8db1893c338241152cecde979ec32e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MAHE\.android\build-cache\7c6f190d5b970d10815587b1674b6ac14903273c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\pre-dexed\debug\classes_ca5e97ad3afee19ef483803d81147d3463e8f21c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.android\build-cache\8f01a60e4d4673226c2b5ca0e7bb5604b27d24b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50a4009a40a617b8a482b5d13db149af133dd091\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MAHE\.android\build-cache\059f5bb3057ffa3a8d1a34a0c5bf2ac2073fe1f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\pre-dexed\debug\classes_63726f7ce26c6cc99fa5876c5192bdf0ef69fe4a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.android\build-cache\090ed5de8e154c7f8a32040d99d376ea6a19a065\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d683919555120fa75918d48d926a1b15c7e997c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MAHE\.android\build-cache\551289fe6eee5b72fa13f38b074e6e56658ada8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="668473027f40fa0cdd5b2db78ba02d676ffd3a2b">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\pre-dexed\debug\classes_813e4bf1741362f5e7ed866276d15d86b624bf0f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.android\build-cache\f415dc7c28465b235957c94289c252ce9a932350\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d5a4e71289ec6b14aac1a3958b371f1feea5450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.android\build-cache\6ae164974fe49e4147245d709db31379b39bd675\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4514ca75a4ea0148bc1e76f82dd9b450e2e397ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MAHE\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.0\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\pre-dexed\debug\support-annotations-27.1.0_d0a45d1c879bf3e94b277c73ecf01672d81f1a23.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.3\92fb46ea210fc3f0ab1125f28b33cf098583e8cf\MPAndroidChart-v3.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="92fb46ea210fc3f0ab1125f28b33cf098583e8cf">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.3_aacbaaec53b95755abaf382b56087d2546149c3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MAHE\.android\build-cache\d144c4b0ec6a7c01b27d040b3ec4d8d28ee785b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\pre-dexed\debug\classes_4a93a38db0b040470c007d70e1766ea8444fedc9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.android\build-cache\8a70ea22452ad1b07a4e26bb25110a4fef809b84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b441ca2896a2fd849466e1246ca2c390f34cc2dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MAHE\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\pre-dexed\debug\common-1.1.0_1f4e1f1a79e67b83227a645b2cc3c55b2b299251.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.android\build-cache\2357fbd1537275e9967a1bc4d7e7cecb4f4f8d65\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_472e66c840cad7ce58e7fdc10837753607ee7d4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.android\build-cache\a066d43abbef676805c2e8e1305ec2a7b9ed2f0d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc81604acde26d05c086a7f22c367e5506968992\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_62f47fb707ec0f65c93a48ea8f4480641bb5fa52\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MAHE\.android\build-cache\f0c02019c098155361d477178a651f11c033f50d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\pre-dexed\debug\classes_e38fa09939b15dbcb8e3abc4da2c27f021e585c6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.android\build-cache\96c4722af8c370ee408097549f7be5892e8bc5f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da84ea060007caa4d034ae9d088eda789b89094b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.3.0_ba1d969c72718b0b812f2a85cae7917bc26bf54b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MAHE\.android\build-cache\a6a726704ade3cb0f169bff08ee66675b565d16f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\pre-dexed\debug\classes_6a03a135f157514ef0704efa53b61c2724f7d5a8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.android\build-cache\6725d914ace4f9f28d26eaceee6189377a189728\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b2d0e61327984c8dfca9eb27fb1e3e1d30ff184\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.9.0\3bf7f8d6a20c90ffe9fc3f3c9118193c7720ecf1\logging-interceptor-3.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3bf7f8d6a20c90ffe9fc3f3c9118193c7720ecf1">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.9.0_02ff0bde94c0da70ff92cb98f5cc74d5b7610cd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.android\build-cache\5b46994bcd76aceaf7f33bb6c2e6dc66a8045985\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36121295f52a15b9c79e6a3f62d4b8475e65d135\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_dce26161831b3391fa520befb9c329742d533e73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.android\build-cache\2ea2e518e19dfcf8fd5ee7dc66284054551c49a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c279106c6a800e1e084caf65fb500c7554e955d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MAHE\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\pre-dexed\debug\common-1.1.0_b4e7e9aa78be3324ef2c23b4e9c97fc04c2999d0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_6546e9995609f6fe0160a673a37d1b7b58477553\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.android\build-cache\0d1c3a885769e1dad08abdb3e8f0c48546c88bd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5d7933988df49183bb426368b15e323e4d9cf39\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MAHE\.android\build-cache\43c91425df773d2a87da9f3d05d09fbcb1ee98f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\pre-dexed\debug\classes_2b91ef990e46d153281006f34b57790679fd52c7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAHE\.android\build-cache\e9a1bbaccb1fcfde46048f805455ad0d20dec4b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\my prg\Projects\Quiztopia\Quiztopia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_833bf66af4607422b62d14908fd5ba00c2a4aa51\classes.dex" />
+    </item>
+
+</items>

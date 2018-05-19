@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\my prg\\Projects\\Quiztopia\\Quiztopia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az\\values-az.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 100,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "C:\\Users\\MAHE\\.android\\build-cache\\d144c4b0ec6a7c01b27d040b3ec4d8d28ee785b0\\output\\res\\values-az\\values-az.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]

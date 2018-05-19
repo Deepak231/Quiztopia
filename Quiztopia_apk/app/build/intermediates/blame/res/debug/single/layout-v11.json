@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\my prg\\Projects\\Quiztopia\\Quiztopia\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\MAHE\\.android\\build-cache\\5b46994bcd76aceaf7f33bb6c2e6dc66a8045985\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\my prg\\Projects\\Quiztopia\\Quiztopia\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\MAHE\\.android\\build-cache\\5b46994bcd76aceaf7f33bb6c2e6dc66a8045985\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\my prg\\Projects\\Quiztopia\\Quiztopia\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\MAHE\\.android\\build-cache\\5b46994bcd76aceaf7f33bb6c2e6dc66a8045985\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\my prg\\Projects\\Quiztopia\\Quiztopia\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\MAHE\\.android\\build-cache\\5b46994bcd76aceaf7f33bb6c2e6dc66a8045985\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\my prg\\Projects\\Quiztopia\\Quiztopia\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\MAHE\\.android\\build-cache\\5b46994bcd76aceaf7f33bb6c2e6dc66a8045985\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\my prg\\Projects\\Quiztopia\\Quiztopia\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\MAHE\\.android\\build-cache\\5b46994bcd76aceaf7f33bb6c2e6dc66a8045985\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    }
+]
